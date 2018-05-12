@@ -1,0 +1,22 @@
+{
+  "name": "nodesheets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^27.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oshliaer/nodejsgoogleapis.git"
+  },
+  "bugs": {
+    "url": "https://github.com/oshliaer/nodejsgoogleapis/issues"
+  },
+  "homepage": "https://github.com/oshliaer/nodejsgoogleapis#readme"
+}
